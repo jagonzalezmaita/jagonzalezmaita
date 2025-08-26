@@ -41,6 +41,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
 ![BPM](https://img.shields.io/badge/BPM-00457C) ![PMBOK](https://img.shields.io/badge/PMBOK-002855) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0052CC?logo=trello&logoColor=white)  
 
 ---
+
 <h2 align="center">📂 Proyectos</h2>
 <!-- 🧾 AI + Automatización -->
 <h3>🧾 AI + Automatización</h3>
@@ -164,6 +165,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
         <a href="https://github.com/jagonzalezmaita/Linked-List">Repositorio</a>
     </div>
 </div>
+
 ---
 ## 🔬 Investigación
 **Representación Algorítmica de una Red Conexionista (2012)**  
