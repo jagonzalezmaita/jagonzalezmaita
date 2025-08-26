@@ -171,16 +171,19 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
 - Coautor en **MAPLA 2012**.  
 - Integración de psicología, cognición, investigación de operaciones e IA en un modelo aplicado a organizaciones.  
 ---
+
 ## 🎓 Certificaciones
 **2024**
-![IBM DS](https://img.shields.io/badge/IBM_Data_Science-00AEEF?logo=ibm&logoColor=white)![Google PM](https://img.shields.io/badge/Google_Project_Management-4285F4?logo=google&logoColor=white)
+![IBM DS](https://img.shields.io/badge/IBM_Data_Science-00AEEF?logo=ibm&logoColor=white) ![Google PM](https://img.shields.io/badge/Google_Project_Management-4285F4?logo=google&logoColor=white)
 **2014**  
-![HP LoadRunner](https://img.shields.io/badge/HP%2FMicroFocus-LoadRunner-0072C6)![HP UFT](https://img.shields.io/badge/HP%2FMicroFocus-UFT-0072C6)![HP ALM](https://img.shields.io/badge/HP%2FMicroFocus-ALM-0072C6)![IBM WebSphere](https://img.shields.io/badge/IBM-WebSphere_App_Server-054ADA) 
+![HP LoadRunner](https://img.shields.io/badge/HP%2FMicroFocus-LoadRunner-0072C6) ![HP UFT](https://img.shields.io/badge/HP%2FMicroFocus-UFT-0072C6) ![HP ALM](https://img.shields.io/badge/HP%2FMicroFocus-ALM-0072C6) ![IBM WebSphere](https://img.shields.io/badge/IBM-WebSphere_App_Server-054ADA)
+
 ---
 ## 🚀 Motivación
 - Aplicar **tecnologías emergentes y conocimientos interdisciplinarios**.  
 - Construir **soluciones innovadoras que generen valor real**.  
 - Compartir experiencias y aprendizaje con la comunidad.
+
 ---
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jonathan-gonzalez-maita-icci)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jagonzalezmaita) [![Email](https://img.shields.io/badge/j%2Egonzalezmaita%40gmail%2Ecom-D14836?logo=gmail&logoColor=white)](mailto:j.gonzalezmaita@gmail.com)
