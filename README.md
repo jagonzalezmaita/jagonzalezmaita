@@ -8,14 +8,13 @@
         <img src="https://img.shields.io/badge/GitHub-black?style=flat" alt="GitHub"/>
     </a>
     <a href="mailto:j.gonzalezmaita@gmail.com">
-        <img src="https://img.shields.io/badge/j.gonzalezmaita@gmail.com-D14836?style=flat" alt="Email"/>
+        <img src="https://img.shields.io/badge/j.gonzalezmaita@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>
 
 🌍 **Ingeniero Civil en Computación e Informática**  
 🔍 QA & Automation | 📊 Data & AI Enthusiast | ⚙️ Developer Explorer  
 
----
 
 ## ✨ Sobre mí
 Soy un profesional que combina **ingeniería, informática y conocimiento aplicado** para resolver problemas reales, generando **valor tangible** en procesos, datos y experiencias.  
@@ -26,9 +25,9 @@ Tengo experiencia internacional en **Nueva Zelanda, Australia, Canadá y Dinamar
 
 Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y Data Visualization**.
 
----
+
 ## 🛠️ Tech Stack  
-**Lenguajes**
+**Lenguajes**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
 
 **Data & IA**  
@@ -40,152 +39,151 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
 **Metodologías**  
 ![BPM](https://img.shields.io/badge/BPM-00457C) ![PMBOK](https://img.shields.io/badge/PMBOK-002855) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0052CC?logo=trello&logoColor=white)  
 
----
 
 <h2 align="center">📂 Proyectos</h2>
+
 <!-- 🧾 AI + Automatización -->
 <h3>🧾 AI + Automatización</h3>
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-    <!-- Tarjeta 1 -->
-    <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>🖨️ Transformación de Facturas OCR + LLM + SQLite + Power BI</strong><br>
-        Pipeline offline con visualización en dashboard interactivo.<br>
-        ⚙️ Python | 🖥️ Power BI | 🤖 OCR + LLM<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/facturas-ocr-llm-powerbi">
         <!--
-        <img src="https://media.giphy.com/media/3o7TKD1x2g7KbHg3TG/giphy.gif" width="100%"><br>
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/facturas-ocr-llm-powerbi">Repositorio</a>
-    </div>
-</div>
-<br>
+        <b>🖨️ Transformación de Facturas OCR + LLM + SQLite + Power BI</b>
+      </a>
+      <p>Pipeline offline con visualización en dashboard interactivo.<br>⚙️ Python | 🖥️ Power BI | 🤖 OCR + LLM</p>
+    </td>
+  </tr>
+</table>
+
 <!-- 🤖 NLP & Chatbots -->
 <h3>🤖 NLP & Chatbots</h3>
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-    <!-- Tarjeta 1 -->
-    <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>💬 Chatbot GPT-2 en Español</strong><br>
-        Modelo HuggingFace + Flet GUI para conversaciones en español.<br>
-        ⚙️ Python | 🤖 NLP | 🖥️ GUI<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/chatbot-DL-gpt">
         <!--
-        <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100%" style="border-radius:8px;"><br>
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/chatbot-DL-gpt">Repositorio</a>
-    </div>
-   <!-- Tarjeta 2 -->
-   <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>🧠 Clasificador de Intenciones (Naive Bayes + TF-IDF)</strong><br>
-        Proyecto educativo de NLP para analizar texto y predecir intenciones.<br>
-        ⚙️ Python | 🤖 NLP | 📊 Machine Learning<br>
+        <b>💬 Chatbot GPT-2 en Español</b>
+      </a>
+      <p>Modelo HuggingFace + Flet GUI para conversaciones en español.<br>⚙️ Python | 🤖 NLP | 🖥️ GUI</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/chatbot-ML-classification-intentions">
         <!--
-        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" style="border-radius:8px;"><br>
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/chatbot-ML-classification-intentions">Repositorio</a>
-    </div>
-</div>
-<br>
+        <b>🧠 Clasificador de Intenciones (Naive Bayes + TF-IDF)</b>
+      </a>
+      <p>Proyecto educativo de NLP para analizar texto y predecir intenciones.<br>⚙️ Python | 🤖 NLP | 📊 Machine Learning</p>
+    </td>
+  </tr>
+</table>
+
 <!-- 📊 Data Science & Visualización -->
 <h3>📊 Data Science & Visualización</h3>
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-    <!-- Tarjeta 1 -->
-    <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>🎬 Dashboard Interactivo de Netflix</strong><br>
-        Visualización interactiva de datos con Dash y Plotly.<br>
-        ⚙️ Python | 📊 Data Viz | 🖥️ Jupyter Notebook<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/netflix-data-dashboard">
         <!--
-        <img src="https://media.giphy.com/media/3o6ZsYgYF8Qy1AGxv2/giphy.gif" width="100%"><br>
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/netflix-data-dashboard">Repositorio</a>
-    </div>
-   <!-- Tarjeta 2 -->
-   <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>🌍 World Population Map</strong><br>
-        Web scraping + mapa interactivo con Folium.<br>
-        ⚙️ Python | 🌍 GIS | 🖥️ Jupyter Notebook<br>
+        <b>🎬 Dashboard Interactivo de Netflix</b>
+      </a>
+      <p>Visualización interactiva de datos con Dash y Plotly.<br>⚙️ Python | 📊 Data Viz | 🖥️ Jupyter Notebook</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/world-population">
         <!--
-        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"><br>
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/world-population">Repositorio</a>
-    </div>
-   <!-- Tarjeta 3 -->
-   <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>📈 Análisis de Modelos de Clasificación</strong><br>
-        Comparativa de algoritmos ML supervisados con métricas estándar.<br>
-        ⚙️ Python | 🤖 ML | 📊 Data Science<br>
+        <b>🌍 World Population Map</b>
+      </a>
+      <p>Web scraping sobre la población mundial + mapa interactivo con Folium.<br>⚙️ Python | 🌍 GIS | 🖥️ Jupyter Notebook</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/breast-cancer-wisconsin-ML">
         <!--
-        <img src="https://media.giphy.com/media/l0MYs8yRblpHg1R6A/giphy.gif" width="100%"><br>
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/breast-cancer-wisconsin-ML">Repositorio</a>
-    </div>
-</div>
-<br>
+        <b>📈 Análisis de Modelos de Clasificación</b>
+      </a>
+      <p>Comparativa de algoritmos ML supervisados con métricas estándar.<br>⚙️ Python | 🤖 ML | 📊 Data Science</p>
+    </td>
+  </tr>
+</table>
+
 <!-- 🔧 Estructuras de Datos -->
 <h3>🔧 Estructuras de Datos</h3>
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-    <!-- Tarjeta 1 -->
-    <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>📖 Diccionario con Trie (C++) </strong><br>  
-        Árbol de prefijos para gestionar palabras en español con soporte `ñ`. <br>
-        ⚙️ C++ | 🖥️ Terminal | 📚 Estructuras de Datos <br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/Diccionario-Trie">
         <!--
-        ![GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/Diccionario-Trie">Repositorio</a>
-    </div>
-
-   <!-- Tarjeta 2 -->
-   <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>🌳 Árboles Binarios y AVL (C++) </strong><br>  
-        Proyecto educativo con recorridos, inserción y visualización horizontal.  <br>
-        ⚙️ C++ | 🖥️ Terminal | 🌳 Algoritmos <br>
+        <b>📖 Diccionario con Trie (C++)</b>
+      </a>
+      <p>Árbol de prefijos para gestionar palabras en español con soporte `ñ`.<br>⚙️ C++ | 🖥️ Terminal | 📚 Estructuras de Datos</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/trees-CPP">
         <!--
-        ![GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/trees-CPP">Repositorio</a>
-    </div>
-
-   <!-- Tarjeta 3 -->
-   <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>📦 Linear Data Structures (Java)</strong><br>  
-        Implementación de Cola, Pila y Priority Queue con menú interactivo.  <br>
-        ⚙️ Java | 🖥️ Terminal | 📚 Estructuras de Datos  <br>
+        <b>🌳 Árboles Binarios y AVL (C++)</b>
+      </a>
+      <p>Proyecto educativo con recorridos, inserción y visualización horizontal.<br>⚙️ C++ | 🖥️ Terminal | 🌳 Algoritmos</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/Linear-Data-Structures-Java">
         <!--
-        ![GIF](https://media.giphy.com/media/3o7TKD1x2g7KbHg3TG/giphy.gif)  
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/Linear-Data-Structures-Java">Repositorio</a>
-    </div>
-
-   <!-- Tarjeta 4 -->
-   <div style="flex:1; min-width:300px; max-width:450px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2); padding:15px; background:#f9f9f9;">
-        <strong>🔗 Listas Enlazadas (Java)</strong><br>  
-        Lista simple, doble y circular, con operaciones básicas. <br>
-        ⚙️ Java | 🖥️ Terminal | 🔗 Algoritmos <br>
+        <b>📦 Linear Data Structures (Java)</b>
+      </a>
+      <p>Implementación de Cola, Pila y Priority Queue con menú interactivo.<br>⚙️ Java | 🖥️ Terminal | 📚 Estructuras de Datos</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/Linked-List">
         <!--
-        ![GIF](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+        <img src="https://via.placeholder.com/120" width="120"/><br>
         -->
-        <a href="https://github.com/jagonzalezmaita/Linked-List">Repositorio</a>
-    </div>
-</div>
+        <b>🔗 Listas Enlazadas (Java)</b>
+      </a>
+      <p>Lista simple, doble y circular, con operaciones básicas.<br>⚙️ Java | 🖥️ Terminal | 🔗 Algoritmos</p>
+    </td>
+  </tr>
+</table>
+<br />
 
----
 ## 🔬 Investigación
 **Representación Algorítmica de una Red Conexionista (2012)**  
 - Distribución óptima de tareas considerando: Taxonomía de Bloom, Teoría de Kolb y Teoría de Transportes.  
 - Coautor en **MAPLA 2012**.  
 - Integración de psicología, cognición, investigación de operaciones e IA en un modelo aplicado a organizaciones.  
----
+
 
 ## 🎓 Certificaciones
 **2024**
-![IBM DS](https://img.shields.io/badge/IBM_Data_Science-00AEEF?logo=ibm&logoColor=white) ![Google PM](https://img.shields.io/badge/Google_Project_Management-4285F4?logo=google&logoColor=white)
-**2014**  
+![IBM DS](https://img.shields.io/badge/IBM_Data_Science-00AEEF?logo=ibm&logoColor=white) ![Google PM](https://img.shields.io/badge/Google_Project_Management-4285F4?logo=google&logoColor=white)  
+**2014**
 ![HP LoadRunner](https://img.shields.io/badge/HP%2FMicroFocus-LoadRunner-0072C6) ![HP UFT](https://img.shields.io/badge/HP%2FMicroFocus-UFT-0072C6) ![HP ALM](https://img.shields.io/badge/HP%2FMicroFocus-ALM-0072C6) ![IBM WebSphere](https://img.shields.io/badge/IBM-WebSphere_App_Server-054ADA)
 
----
+
 ## 🚀 Motivación
 - Aplicar **tecnologías emergentes y conocimientos interdisciplinarios**.  
 - Construir **soluciones innovadoras que generen valor real**.  
 - Compartir experiencias y aprendizaje con la comunidad.
 
----
+
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jonathan-gonzalez-maita-icci)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jagonzalezmaita) [![Email](https://img.shields.io/badge/j%2Egonzalezmaita%40gmail%2Ecom-D14836?logo=gmail&logoColor=white)](mailto:j.gonzalezmaita@gmail.com)
