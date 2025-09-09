@@ -42,6 +42,25 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
 
 <h2 align="center">📂 Proyectos</h2>
 
+<!-- 🧾 FastAPI Example API -->
+<h3>🔌 APIs</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/FastApi-example-api">
+        <!--
+        <img src="https://via.placeholder.com/120" width="120"/><br>
+        -->
+        <b>⚡FastAPI Example API</b>
+      </a>
+      <p>
+        API RESTful construida con FastAPI, JWT, roles y permisos.<br>
+        🐍 Python | ⚡ FastAPI | 🗄️ SQLite | 🛡️ JWT | 🔑 OAuth2
+      </p>
+    </td>
+  </tr>
+</table>
+
 <!-- 🧾 AI + Automatización -->
 <h3>🧾 AI + Automatización</h3>
 <table>
