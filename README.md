@@ -21,8 +21,6 @@ Soy un profesional que combina **ingeniería, informática y conocimiento aplica
 
 Me apasiona explorar cómo **tecnologías de punta, conocimientos consolidados y metodologías probadas** pueden generar valor más allá del dinero, transformando procesos, educación, datos y experiencias. 
 
-Tengo experiencia internacional en **Nueva Zelanda, Australia, Canadá y Dinamarca**, lo que potenció mis habilidades en comunicación intercultural, resiliencia y adaptabilidad.   
-
 Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y Data Visualization**.
 
 
