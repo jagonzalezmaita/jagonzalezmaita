@@ -62,7 +62,16 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
 <!-- 🧾 AI + Automatización -->
 <h3>🧾 AI + Automatización</h3>
 <table>
-  <tr>
+<tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/object-detection-yolov11">
+        <b>🎯 Detección de Objetos con YOLOv11</b>
+      </a>
+      <p>
+        Prototipo modular de detección de objetos con YOLOv11 en imágenes, videos y streaming.<br>
+        🐍 Python | 🤖 Computer Vision | 📸 YOLOv11 | ⚙️ OpenCV
+      </p>
+    </td>
     <td align="center">
       <a href="https://github.com/jagonzalezmaita/facturas-ocr-llm-powerbi">
         <!--
@@ -70,7 +79,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
         -->
         <b>🖨️ Transformación de Facturas OCR + LLM + SQLite + Power BI</b>
       </a>
-      <p>Pipeline offline con visualización en dashboard interactivo.<br>⚙️ Python | 🖥️ Power BI | 🤖 OCR + LLM</p>
+      <p>Pipeline offline con visualización en dashboard interactivo.<br>🐍 Python | 🖥️ Power BI | 🤖 OCR + LLM</p>
     </td>
   </tr>
 </table>
@@ -86,7 +95,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
         -->
         <b>💬 Chatbot GPT-2 en Español</b>
       </a>
-      <p>Modelo HuggingFace + Flet GUI para conversaciones en español.<br>⚙️ Python | 🤖 NLP | 🖥️ GUI</p>
+      <p>Modelo HuggingFace + Flet GUI para conversaciones en español.<br>🐍 Python | 🤖 NLP | 🖥️ GUI</p>
     </td>
     <td align="center">
       <a href="https://github.com/jagonzalezmaita/chatbot-ML-classification-intentions">
@@ -95,7 +104,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
         -->
         <b>🧠 Clasificador de Intenciones (Naive Bayes + TF-IDF)</b>
       </a>
-      <p>Proyecto educativo de NLP para analizar texto y predecir intenciones.<br>⚙️ Python | 🤖 NLP | 📊 Machine Learning</p>
+      <p>Proyecto educativo de NLP para analizar texto y predecir intenciones.<br>🐍 Python | 🤖 NLP | 📊 Machine Learning</p>
     </td>
   </tr>
 </table>
@@ -111,7 +120,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
         -->
         <b>🎬 Dashboard Interactivo de Netflix</b>
       </a>
-      <p>Visualización interactiva de datos con Dash y Plotly.<br>⚙️ Python | 📊 Data Viz | 🖥️ Jupyter Notebook</p>
+      <p>Visualización interactiva de datos con Dash y Plotly.<br>🐍 Python | 📊 Data Viz | 🖥️ Jupyter Notebook</p>
     </td>
     <td align="center">
       <a href="https://github.com/jagonzalezmaita/world-population">
@@ -120,7 +129,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
         -->
         <b>🌍 World Population Map</b>
       </a>
-      <p>Web scraping sobre la población mundial + mapa interactivo con Folium.<br>⚙️ Python | 🌍 GIS | 🖥️ Jupyter Notebook</p>
+      <p>Web scraping sobre la población mundial + mapa interactivo con Folium.<br>🐍 Python | 🌍 GIS | 🖥️ Jupyter Notebook</p>
     </td>
   </tr>
   <tr>
@@ -131,7 +140,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
         -->
         <b>📈 Análisis de Modelos de Clasificación</b>
       </a>
-      <p>Comparativa de algoritmos ML supervisados con métricas estándar.<br>⚙️ Python | 🤖 ML | 📊 Data Science</p>
+      <p>Comparativa de algoritmos ML supervisados con métricas estándar.<br>🐍 Python | 🤖 ML | 📊 Data Science</p>
     </td>
   </tr>
 </table>
