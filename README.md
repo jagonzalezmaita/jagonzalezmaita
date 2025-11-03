@@ -82,6 +82,17 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
       <p>Pipeline offline con visualización en dashboard interactivo.<br>🐍 Python | 🖥️ Power BI | 🤖 OCR + LLM</p>
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/vehicle-license-plate-detection">
+        <b>🚗 Detección de patentes de vehículos</b>
+      </a>
+      <p>
+        Prototipo para detección y reconocimiento de patentes vehiculares.<br>
+        🐍 Python | 🤖 Computer Vision | 🤖 OCR | 📸 YOLOv11 | ⚙️ OpenCV
+      </p>
+    </td>
+  </tr>
 </table>
 
 <!-- 🤖 NLP & Chatbots -->
