@@ -202,12 +202,6 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
 </table>
 <br />
 
-## 🔬 Investigación
-**Representación Algorítmica de una Red Conexionista (2012)**  
-- Distribución óptima de tareas considerando: Taxonomía de Bloom, Teoría de Kolb y Teoría de Transportes.  
-- Coautor en **MAPLA 2012**.  
-- Integración de psicología, cognición, investigación de operaciones e IA en un modelo aplicado a organizaciones.  
-
 
 ## 🎓 Certificaciones
 **2024**
