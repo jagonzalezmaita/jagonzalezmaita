@@ -151,7 +151,7 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
         -->
         <b>📈 Análisis de Modelos de Clasificación</b>
       </a>
-      <p>Comparativa de algoritmos ML supervisados con métricas estándar.<br>🐍 Python | 🤖 ML | 📊 Data Science</p>
+      <p>Comparativa de algoritmos ML supervisados con métricas estándar para el diagnóstico de cáncer de mama.<br>🐍 Python | 🤖 ML | 📊 Data Science</p>
     </td>
   </tr>
 </table>
