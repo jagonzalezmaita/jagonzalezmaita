@@ -31,6 +31,9 @@ Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y
 **Data & IA**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?logo=huggingface&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)  
 
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 **QA & Integración**  
 ![LoadRunner](https://img.shields.io/badge/HP%2FMicroFocus-LoadRunner-0072C6) ![UFT](https://img.shields.io/badge/HP%2FMicroFocus-UFT-0072C6) ![ALM](https://img.shields.io/badge/HP%2FMicroFocus-ALM-0072C6) ![IBM IIB](https://img.shields.io/badge/IBM_IIB-054ADA)  
 
