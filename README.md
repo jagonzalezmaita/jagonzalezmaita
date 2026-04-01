@@ -42,7 +42,21 @@ Actualmente me especializo en **Python, Machine Learning, LLMs y Data Visualizat
 
 
 <h2 align="center">📂 Proyectos</h2>
-
+<!-- 🧾 RAG Prototype -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jagonzalezmaita/rag-prototype">
+        <b>📚 RAG Prototype</b>
+      </a>
+      <p>
+        Sistema de pregunta-respuesta sobre documentos propios usando RAG.<br>
+          Microservicios REST con arquitectura hexagonal.<br>
+        🐍 Python | ⚡ FastAPI | 🤖 Ollama | 📊 Qdrant | 🐳 Docker
+      </p>
+    </td>
+  </tr>
+</table>
 <!-- 🧾 FastAPI Example API -->
 <h3>🔌 APIs</h3>
 <table>
