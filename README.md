@@ -21,7 +21,7 @@ Soy un profesional que combina **ingeniería, informática y conocimiento aplica
 
 Me apasiona explorar cómo **tecnologías de punta, conocimientos consolidados y metodologías probadas** pueden generar valor más allá del dinero, transformando procesos, educación, datos y experiencias. 
 
-Actualmente me especializo en **Python, Machine Learning, LLMs, Power Platform y Data Visualization**.
+Actualmente me especializo en **Python, Machine Learning, LLMs y Data Visualization**.
 
 
 ## 🛠️ Tech Stack  
